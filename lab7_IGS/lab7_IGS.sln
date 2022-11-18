@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 22.00
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lab7_IGS", "lab7_IGS\lab7_IGS.vcxproj", "{E92D7FE7-E8DC-4F37-B492-44C25249B234}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ellipsoid2", "Ellipsoid2\Ellipsoid2.vcxproj", "{191050A6-76C7-4AE6-8169-0F3DB5CAA2B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E92D7FE7-E8DC-4F37-B492-44C25249B234}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E92D7FE7-E8DC-4F37-B492-44C25249B234}.Debug|Win32.Build.0 = Debug|Win32
+		{E92D7FE7-E8DC-4F37-B492-44C25249B234}.Release|Win32.ActiveCfg = Release|Win32
+		{E92D7FE7-E8DC-4F37-B492-44C25249B234}.Release|Win32.Build.0 = Release|Win32
+		{191050A6-76C7-4AE6-8169-0F3DB5CAA2B4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{191050A6-76C7-4AE6-8169-0F3DB5CAA2B4}.Debug|Win32.Build.0 = Debug|Win32
+		{191050A6-76C7-4AE6-8169-0F3DB5CAA2B4}.Release|Win32.ActiveCfg = Release|Win32
+		{191050A6-76C7-4AE6-8169-0F3DB5CAA2B4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
